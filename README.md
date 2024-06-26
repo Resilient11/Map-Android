@@ -1,1 +1,3 @@
 # Map-Android
+这是一个基于Android Stuio开发软件和百度地图提供API支持开发的地图软件
+本项目主要用于记录开发的过程
